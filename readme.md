@@ -7,7 +7,7 @@ results presented in
 *Riechers K. and Boers N.: Significance of
 uncertain phasing between the onsets of stadial-interstadial
 transitions in different Greenland ice-coreproxies, Climate of
-the past, 2021* .
+the Past, 2021* .
 
 This repository was created before publication,
 thus reference details are not available at this stage. The
